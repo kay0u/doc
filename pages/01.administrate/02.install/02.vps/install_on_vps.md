@@ -1,15 +1,10 @@
----
-title: Install on a dedicated server
-template: docs
-taxonomy:
-    category: docs
----
+# Install on a dedicated server
 
 *Find other ways to install YunoHost **[here](/install)**.*
 
 ### Pre-requisite
 
-![VPS](image://vps.png?resize=250)
+<img src="/images/vps.png" width=250>
 
 * A dedicated or virtual private server
 * with at least **512MB** RAM
@@ -19,6 +14,6 @@ taxonomy:
 
 ## Installation steps
 
-[1. Install manually](/administrate/install/manualinstall?classes=btn,btn-lg,btn-primary)
+<a class="btn btn-lg btn-default" href="/install_manually">1. Install manually</a>
 
-[2. Proceed with the initial configuration (post-installation)](/administrate/postinstall?classes=btn,btn-lg,btn-primary)
+<a class="btn btn-lg btn-default" href="/postinstall">2. Proceed with the initial configuration (post-installation)</a>

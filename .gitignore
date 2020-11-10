@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 /*
 !/pages
 !/images
 !/themes
+=======
+*~
+*.sw[op]
+/*
+!/pages
+!/images
+!/themes
+>>>>>>> e097f6f7 (Grav-ification)
