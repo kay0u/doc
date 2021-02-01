@@ -163,7 +163,8 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | munin | Resource monitoring tool |  | [Package Draft](https://github.com/YunoHost-Apps/munin_ynh) |
 | Museek+ |  | [Upstream](https://github.com/eLvErDe/museek-plus) |  |
 | [MyBB](https://mybb.com/) |  | [Upstream](https://github.com/mybb) |  |
-| mycryptochat | Encrypted IM |  | [Package Draft](https://github.com/mrtino/mycryptochat_ynh) |
+| mycryptochat | Encrypted IM |  | [Package Draft](https://github.com/mrtino/mycryptochat_ynh) |[mx-puppet-discord](https://github.com/matrix-discord/mx-puppet-discord) | A bridge between Matrix and Discord | | [Upstream](https://github.com/matrix-discord/mx-puppet-discord) | | 
+|
 | [N8n.io](https://n8n.io) |  |  |  |
 | Netrunner |  | [Upstream](https://github.com/mtgred/netrunner) |  |
 | nexusoss | Sonatype Nexus Repository manager OSS |  | [Package Draft](https://github.com/YunoHost-Apps/nexusoss_ynh) |
